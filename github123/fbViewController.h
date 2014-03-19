@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface fbViewController : UIViewController
+@interface fbViewController : UIViewController {
+    
+    int i;
+}
 
 @end
